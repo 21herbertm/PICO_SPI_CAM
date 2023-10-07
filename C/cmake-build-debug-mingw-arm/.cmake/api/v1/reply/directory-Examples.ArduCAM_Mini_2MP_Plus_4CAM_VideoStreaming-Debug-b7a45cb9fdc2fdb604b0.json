@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Examples/ArduCAM_Mini_2MP_Plus_4CAM_VideoStreaming",
+		"source" : "Examples/ArduCAM_Mini_2MP_Plus_4CAM_VideoStreaming"
+	}
+}

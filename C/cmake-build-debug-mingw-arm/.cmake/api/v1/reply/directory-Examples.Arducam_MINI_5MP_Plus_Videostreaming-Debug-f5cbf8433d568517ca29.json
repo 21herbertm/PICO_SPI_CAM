@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Examples/Arducam_MINI_5MP_Plus_Videostreaming",
+		"source" : "Examples/Arducam_MINI_5MP_Plus_Videostreaming"
+	}
+}
